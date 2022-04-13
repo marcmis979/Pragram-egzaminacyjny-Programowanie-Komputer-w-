@@ -1,0 +1,6 @@
+Jan Kowalski;3.5
+John Smith;4
+Zofia Gugała;3.2
+Michał Wons;5
+Adrzej Dolny;4.2;3
+Alicja Pomocna;4.5
